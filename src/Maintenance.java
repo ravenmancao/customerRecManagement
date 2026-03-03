@@ -7,6 +7,5 @@
  *
  * @author Raven Mancao
  */
-public class Maintenance {
-    
+public class Maintenance {   
 }
