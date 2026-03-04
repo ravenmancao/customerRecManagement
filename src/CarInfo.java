@@ -8,5 +8,5 @@
  * @author Raven Mancao
  */
 public class CarInfo {
-    
+    //BLANKOOOOOO
 }
