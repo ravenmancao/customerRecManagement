@@ -42,7 +42,7 @@ public Customer searchCustomer(int id){
 }
 //method para mag delete ng customer
 public void deleteCustomer(Customer customer){
-    customers.remove(customer);//tinanggal sa list ang customer
+    customers.remove(customer);
 }
 }
 
