@@ -5,7 +5,7 @@ import javax.swing.*;
 public class HomePage extends JFrame {
 
     public HomePage() {
-        setTitle("Car Rental System - Home Page");
+        setTitle("Customer Record Management");
         setSize(600, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

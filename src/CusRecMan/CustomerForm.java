@@ -10,7 +10,7 @@ public class CustomerForm extends JFrame implements Searchable {
     private JTextField txtId, txtName, txtPhone, txtLicense, txtAddress, txtCar, txtRentalDate, txtReturnDate, txtSearch;
 
     public CustomerForm() {
-        setTitle("Customer Record Management");
+        setTitle("Customer Record Form");
         setSize(600, 400);
         setLayout(null);
         setLocationRelativeTo(null);
